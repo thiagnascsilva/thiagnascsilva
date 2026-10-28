@@ -1,4 +1,4 @@
-### Hi, I'm Thiago
+### Thiago Nascimento da Silva
 
 PhD in Computer Science (mathematical logic) working on **AI evaluation, machine learning, and statistical validation** for high-stakes systems.
 
